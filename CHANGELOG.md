@@ -1,3 +1,9 @@
+#### 1.0.1 (2021-05-24)
+
+##### Documentation Changes
+
+*  add @trubavuong/seaweedfs package link ([320a447e](https://github.com/trubavuong/fastify-seaweedfs/commit/320a447e0b0f2f95f6561208de507f5823eb49a0))
+
 ## 1.0.0 (2021-05-24)
 
 ##### New Features
