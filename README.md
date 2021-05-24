@@ -23,3 +23,5 @@ app.register(plugin, {
 
 // later you can use app.swfs to interact with SeaweedFS server using corresponding storage APIs
 ```
+
+To interact with SeaweedFS, we use [@trubavuong/seaweedfs](https://www.npmjs.com/package/@trubavuong/seaweedfs) package.
