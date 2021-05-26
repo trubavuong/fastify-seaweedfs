@@ -1,3 +1,9 @@
+#### 1.0.2 (2021-05-26)
+
+##### Documentation Changes
+
+*  update usage section ([07e94e1a](https://github.com/trubavuong/fastify-seaweedfs/commit/07e94e1a7c955640cb4f29b8b2c5630b56292ce8))
+
 #### 1.0.1 (2021-05-24)
 
 ##### Documentation Changes
